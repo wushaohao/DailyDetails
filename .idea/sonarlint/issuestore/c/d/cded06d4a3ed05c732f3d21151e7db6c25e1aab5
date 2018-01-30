@@ -1,0 +1,14 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡×²İûÿÿÿÿ
+Tsquid:S1161":Add the "@Override" annotation above this method signature(Ä†àŒşÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÔ“úùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÙ”¼
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(İëÈıÿÿÿÿ
+@squid:S2387"&"s" is the name of a field in "Super".(˜¶Îµûÿÿÿÿ
+Nsquid:S3400"9Remove this method and declare a constant for this value.(˜–è‰
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÙÚ†¸
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ë•ªŒûÿÿÿÿ

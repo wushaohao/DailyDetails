@@ -1,0 +1,21 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(«Ú„øÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+Ksquid:S1481"1Remove this unused "justObserver" local variable.(¼¡¾ãùÿÿÿÿ
+Msquid:S1481"3Remove this unused "fromObservable" local variable.(´û¦ùÿÿÿÿ
+Hsquid:S1481"4Remove this unused "deferObservable" local variable.(ØØ€~
+Qsquid:S1481"7Remove this unused "intervalObservable" local variable.(ûàØóıÿÿÿÿ
+Hsquid:S1481"3Remove this unused "angeObservable" local variable.(ÿ£ÔØ
+Hsquid:S1481"3Remove this unused "timeObservable" local variable.(¤×™ô
+Jsquid:S1481"5Remove this unused "repeatObservable" local variable.(ïğÀû
+Tsquid:CallToDeprecatedMethod".Remove this use of "create"; it is deprecated.(©üÆ’
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€ñ”İùÿÿÿÿ
+Ysquid:S1854"DRemove this useless assignment to local variable "repeatObservable".(ïğÀû
+Wsquid:S1854"BRemove this useless assignment to local variable "timeObservable".(¤×™ô
+Wsquid:S1854"BRemove this useless assignment to local variable "angeObservable".(ÿ£ÔØ
+`squid:S1854"FRemove this useless assignment to local variable "intervalObservable".(ûàØóıÿÿÿÿ
+Wsquid:S1854"CRemove this useless assignment to local variable "deferObservable".(ØØ€~
+\squid:S1854"BRemove this useless assignment to local variable "fromObservable".(´û¦ùÿÿÿÿ
+Zsquid:S1854"@Remove this useless assignment to local variable "justObserver".(¼¡¾ãùÿÿÿÿ

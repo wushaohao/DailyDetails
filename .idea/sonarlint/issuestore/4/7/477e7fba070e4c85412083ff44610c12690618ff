@@ -1,0 +1,5 @@
+
+[squid:UselessImportCheck"9Remove this unused import 'io.netty.bootstrap.Bootstrap'.(¦ÄÏï
+lsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¡äŒc
+esquid:UselessImportCheck">Remove this unused import 'io.netty.channel.nio.NioEventLoop'.(ºåý°ýÿÿÿÿ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(†Íˆˆ

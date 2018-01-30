@@ -1,0 +1,7 @@
+
+Bsquid:S1313".Make this IP "127.0.0.1" address configurable.(éÆì
+:squid:S2068" Remove this hard-coded password.(ŸŽ¸òøÿÿÿÿ
+Osquid:S1118":Add a private constructor to hide the implicit public one.(ÇÀ—„
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ó­³¯ùÿÿÿÿ
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(þ¸…çøÿÿÿÿ

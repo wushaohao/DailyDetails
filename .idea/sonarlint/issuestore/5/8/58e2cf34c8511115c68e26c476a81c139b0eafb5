@@ -1,0 +1,22 @@
+
+isquid:S00116"NRename this field "MAX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üõ‚·úÿÿÿÿ
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÝÀÿ»ó+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½Â½ƒýÿÿÿÿ8ÝÀÿ»ó+
+Qsquid:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8ÝÀÿ»ó+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŽªØ´8ÝÀÿ»ó+
+Qsquid:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8ÝÀÿ»ó+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÝÀÿ»ó+
+Nsquid:S2274":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÙÚ†¸
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÝÀÿ»ó+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ð‚ô°ÿÿÿÿÿ8ÝÀÿ»ó+
+Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(§ŒÍ‚8ÝÀÿ»ó+
+Csquid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8ÝÀÿ»ó+
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ýƒ“÷ÿÿÿÿÿ
+Csquid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8ÝÀÿ»ó+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÝÀÿ»ó+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÝÀÿ»ó+
+;squid:S1170"!Make this final field static too.(Üõ‚·úÿÿÿÿ
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÝÀÿ»ó+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÝÀÿ»ó+

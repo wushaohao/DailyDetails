@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="gb2312"?>
+
+<menus>
+    <MenuCounts>2</MenuCounts>
+    
+	<menu1>
+		<funcId>100100</funcId>
+		<funcName>基础信息管理</funcName>
+		<parentId>1</parentId>
+		<viewName>""</viewName>
+	</menu1>
+
+	<children>
+		<childrenmenu1>
+			<funcId>101101</funcId>
+			<funcName>服务资产管理</funcName>
+			<parentId>100100</parentId>
+			<viewName>service/sourcemanage/servicesource
+			</viewName>
+		</childrenmenu1>
+
+       <childrenmenu1>
+			<funcId>102102</funcId>
+			<funcName>服务降级管理</funcName>
+			<parentId>100100</parentId>
+			<viewName>service/sourcemanage/serviceDegrade
+			</viewName>
+		</childrenmenu1>
+		
+		<childrenmenu1>
+			<funcId>103103</funcId>
+			<funcName>基础数据配置</funcName>
+			<parentId>100100</parentId>
+			<viewName>service/sourcemanage/zkConfig
+			</viewName>
+		</childrenmenu1>
+		
+		<childrenmenu1>
+			<funcId>104104</funcId>
+			<funcName>服务ZK节点信息</funcName>
+			<parentId>100100</parentId>
+			<viewName>service/sourcemanage/zkServiceInfo
+			</viewName>
+		</childrenmenu1>
+		
+		<childrenmenu1>
+			<funcId>105105</funcId>
+			<funcName>路由规则</funcName>
+			<parentId>100100</parentId>
+			<viewName>service/rule/routeRule
+			</viewName>
+		</childrenmenu1>
+		
+		<childrenmenu1>
+			<funcId>106106</funcId>
+			<funcName>操作日志</funcName>
+			<parentId>100100</parentId>
+			<viewName>service/srvmonitor/operatelog
+			</viewName>
+		</childrenmenu1>
+		
+		<childrenmenu1>
+			<funcId>107102</funcId>
+			<funcName>业务流程管理</funcName>
+			<parentId>100100</parentId>
+			<viewName>service/sourcemanage/busworkflow
+			</viewName>
+		</childrenmenu1>
+		<childrenmenu1>
+			<funcId>10808</funcId>
+			<funcName>服务流程图</funcName>
+			<parentId>100100</parentId>
+			<viewName>service/servicemap/serviceworkflow
+			</viewName>
+		</childrenmenu1>
+
+		<childrenmenu1>
+			<funcId>10909</funcId>
+			<funcName>服务关系图</funcName>
+			<parentId>100100</parentId>
+			<viewName>service/servicemap/servicerelation
+			</viewName>
+		</childrenmenu1>
+		
+	</children>
+
+
+	<menu2>
+		<funcId>200200</funcId>
+		<funcName>服务监控</funcName>
+		<parentId>1</parentId>
+		<viewName>""</viewName>
+	</menu2>
+	
+	<childrenmenu2>
+			<funcId>201201</funcId>
+			<funcName>服务端监控</funcName>
+			<parentId>200200</parentId>
+			<viewName>service/sourcemanage/monitorCenterApp</viewName>
+	</childrenmenu2>
+
+	<childrenmenu2>
+		<funcId>202202</funcId>
+		<funcName>客户端监控</funcName>
+		<parentId>200200</parentId>
+		<viewName>service/sourcemanage/CsfHystrix</viewName>
+	</childrenmenu2>
+	
+	
+	
+</menus>

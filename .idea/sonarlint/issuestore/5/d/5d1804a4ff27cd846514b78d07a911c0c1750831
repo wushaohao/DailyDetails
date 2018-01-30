@@ -1,0 +1,15 @@
+
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(£¯èÕ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(ù—Øj
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ôïØ¯
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ã®Í©ûÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰éƒƒÿÿÿÿÿ8ïž—‡Š,
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+/squid:S2438""Argument 1" is a "Thread".(Þãˆ8
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(­©Ìæþÿÿÿÿ

@@ -1,0 +1,9 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(£ª¨Øùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷ïÒªûÿÿÿÿ
+ssquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(µŒ»ù
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¦ëìŸ
