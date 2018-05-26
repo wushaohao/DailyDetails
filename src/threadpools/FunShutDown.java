@@ -18,7 +18,8 @@ public class FunShutDown {
                 @Override
                 public void run() {
                     try {
-                        Thread.sleep(30000);
+                        System.out.println("run..");
+                        Thread.sleep(3000);
                         System.out.println("==" + Thread.currentThread().getName());
                     } catch (InterruptedException e) {
                         e.printStackTrace();
@@ -35,6 +36,7 @@ public class FunShutDown {
                 @Override
                 public void run() {
                     try {
+                        System.out.println("新增提交任务..");
                         Thread.sleep(30000);
                         System.out.println("--"+Thread.currentThread().getName());
                     } catch (InterruptedException e) {
