@@ -6,7 +6,7 @@ import java.util.concurrent.Executors;
 
 /**
  * @author:wuhao
- * @description:线程终止方法
+ * @description:线程终止方法shutdownNow()
  * @date:18/5/26
  */
 public class FunShutDownNow {
@@ -19,7 +19,9 @@ public class FunShutDownNow {
                 @Override
                 public void run() {
                     try {
-                        Thread.sleep(30000);
+                        System.out.println("run...");
+                        Thread.sleep(3000);
+                        System.out.println("线程运行:" + Thread.currentThread().getName());
                         System.out.println("--");
                     } catch (InterruptedException e) {
                         e.printStackTrace();
@@ -29,9 +31,12 @@ public class FunShutDownNow {
         }
 
         try {
+            System.out.println("睡眠前:");
             Thread.sleep(1000);
+            System.out.println("睡眠后");
             //shutdownNow：对正在执行的任务全部发出interrupt()，停止执行，对还未开始执行的任务全部取消，并且返回还没开始的任务列表
             List<Runnable> lists = pool.shutdownNow();
+            System.out.println("执行shutdownNow后:");
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
