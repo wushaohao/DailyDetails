@@ -11,7 +11,7 @@ public class BubbleSort {
     public static void sort(int[] array) {
         int temp = 0;
         int lastChangeIndex = 0;
-        //
+        // 排序边界
         int sortBoard = array.length - 1;
 
 
