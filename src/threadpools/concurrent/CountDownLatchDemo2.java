@@ -4,7 +4,7 @@ import java.util.concurrent.CountDownLatch;
 
 /**
  * @author:wuhao
- * @description:测试demo--哪个线程调用了await(),那么哪个线程等待调用了countDown()的线程的计数为0后继续执行
+ * @description:测试demo--哪个线程调用了await(),那么这个线程就会等待调用了countDown()的线程的计数为0后继续执行
  * @date:18/7/22
  */
 public class CountDownLatchDemo2 {
