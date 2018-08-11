@@ -48,7 +48,7 @@ public class ZookeeperDistributedLock {
     /**
      * ZookeeperDistributedLock的构造函数创建zkclient，并且注册了监听事件，然后调用connectedSignal.await()挂起当前线程。当
      * zk client链接到服务器后，会给监听器发送SyncConnected事件，监听器判断当前链接已经建立了，则调用 connectedSignal.countDown();激活当前线程，然后创建root节点
-     * @param config
+     * @param config zk链接参数connectString
      * @param lockName
      */
     public ZookeeperDistributedLock(String config,String lockName) {
@@ -97,7 +97,7 @@ public class ZookeeperDistributedLock {
 
     /**
      * 获取锁的方法lock，内部首先创建/root/lockName的顺序临时节点，然后获取/root下所有的孩子节点，并对子节点进行排序，然后判断自己是不是最小的编号，如果是直接返回true标示获取锁成功。
-     * 否者看比自己小一个号的节点是否存在，存在则注册该节点的事件，然后挂起当前线程，等待比自己小一个数的节点释放锁后发送节点删除事件，事件里面激活当前线程
+     * 否则看比自己小一个号的节点是否存在，存在则注册该节点的事件，然后挂起当前线程，等待比自己小一个数的节点释放锁后发送节点删除事件，事件里面激活当前线程
      */
     public void lock() {
         try {
