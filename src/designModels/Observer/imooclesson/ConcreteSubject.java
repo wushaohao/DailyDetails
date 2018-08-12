@@ -14,6 +14,7 @@ public class ConcreteSubject extends Subject{
     }
 
     public void setSubjectState(String subjectState) {
+        // 目标类也就是被观察者 状态发生改变 发布状态 通知观察者
         this.subjectState = subjectState;
         this.notifyObservers();
     }

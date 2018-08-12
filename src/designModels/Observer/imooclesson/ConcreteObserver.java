@@ -21,5 +21,6 @@ public class ConcreteObserver implements Observer{
     public void update(Subject subject) {
         // 获取目标类的状态同步到观察者的状态中
         observerState = ((ConcreteSubject)subject).getSubjectState();
+        // 可根据状态进行逻辑处理(TODO)
     }
 }
