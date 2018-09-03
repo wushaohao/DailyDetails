@@ -24,8 +24,6 @@ public class CountDownLatchDemo {
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
-
-                //
                 latch.countDown();
             }
         });
@@ -41,7 +39,6 @@ public class CountDownLatchDemo {
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
-                //
                 latch.countDown();
             }
         });
@@ -51,9 +48,9 @@ public class CountDownLatchDemo {
 
         System.out.println("等待2个线程执行结束");
         try {
+            System.out.println(Thread.currentThread().getName()+"开始等待..");
             latch.await();
-            System.out.println("2个子线程已经执行完毕");
-            System.out.println("继续执行主线程");
+            System.out.println(Thread.currentThread().getName()+"结束等待,继续执行..");
             System.out.println("结果是:"+(a+b));
         } catch (InterruptedException e) {
             e.printStackTrace();
