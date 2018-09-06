@@ -13,9 +13,9 @@ public class BubbleSort {
         int lastChangeIndex = 0;
         // 排序边界
         int sortBoard = array.length - 1;
-        
+
         for (int i = 0; i < array.length; i++) {
-            // 是否继续要排序
+            // 有序标记(数组已经是有序的) 每一轮开始的时候是true
             boolean isSort = true;
 
             for (int j = 0; j < sortBoard; j++) {
@@ -23,6 +23,7 @@ public class BubbleSort {
                     temp = array[j];
                     array[j] = array[j + 1];
                     array[j + 1] = temp;
+                    //有元素交换 所以不是有序的 标记变为false
                     isSort = false;
                     lastChangeIndex = j;
                 }
