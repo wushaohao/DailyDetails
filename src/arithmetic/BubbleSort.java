@@ -13,8 +13,7 @@ public class BubbleSort {
         int lastChangeIndex = 0;
         // 排序边界
         int sortBoard = array.length - 1;
-
-
+        
         for (int i = 0; i < array.length; i++) {
             // 是否继续要排序
             boolean isSort = true;
@@ -38,7 +37,7 @@ public class BubbleSort {
     }
 
     public static void main(String[] args) {
-        int[] array = new int[]{3, 4, 2, 1, 5, 6, 7, 8};
+        int[] array = new int[]{3, 4, 2, 1, 7, 6, 8, 5};
         sort(array);
         System.out.println(Arrays.toString(array));
     }
