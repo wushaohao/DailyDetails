@@ -5,6 +5,7 @@ import lombok.AccessLevel;
 import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
+import lombok.extern.slf4j.Slf4j;
 
 import java.util.Date;
 
@@ -14,6 +15,7 @@ import java.util.Date;
  * @date:18/10/31
  */
 @Data
+@Slf4j
 public class PlugLombokDemo1 {
 
     @Getter
@@ -63,5 +65,6 @@ public class PlugLombokDemo1 {
         boolean active = plugLombokDemo1.isActive();
 
         System.out.println(date + "\t" + none + "\t" + active);
+
     }
 }
