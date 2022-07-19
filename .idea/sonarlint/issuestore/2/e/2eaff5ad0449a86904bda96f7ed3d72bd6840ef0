@@ -1,9 +1,0 @@
-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8›¥ÕáÇ+
-Asquid:S2068" Remove this hard-coded password.(‰ÚÎçıÿÿÿÿ8›¥ÕáÇ+
-osquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ8›¥ÕáÇ+
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8›¥ÕáÇ+
-`squid:S2147"DCombine this catch with the one at line 25, which has the same body.(¯áè8›¥ÕáÇ+
-`squid:S2147"DCombine this catch with the one at line 25, which has the same body.(Å¡ß8›¥ÕáÇ+
-ysquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Àààãûÿÿÿÿ8›¥ÕáÇ+
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8›¥ÕáÇ+

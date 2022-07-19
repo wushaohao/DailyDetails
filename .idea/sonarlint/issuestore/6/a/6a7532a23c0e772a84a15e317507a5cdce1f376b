@@ -1,5 +1,0 @@
-
-vsquid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "pool".(Üªùÿÿÿÿ
-|squid:S1488"gImmediately return this expression instead of assigning it to the temporary variable "executorService".(ÖÄß
-Psquid:S1172"6Remove this unused method parameter "maximumPoolSize".(å‹›‰üÿÿÿÿ
-Osquid:S1118":Add a private constructor to hide the implicit public one.(’ó©î

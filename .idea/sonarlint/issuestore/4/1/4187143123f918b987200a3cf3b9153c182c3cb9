@@ -1,13 +1,0 @@
-
- %squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¹¿´½şÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ú³äÈûÿÿÿÿ
-isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ƒ”Şùÿÿÿÿ
-isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¿´½şÿÿÿÿ
-?squid:S1172"*Remove this unused method parameter "ctx".(¬ÑÆÅ
-asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¹¿´½şÿÿÿÿ
-nsquid:S00116"SRename this field "ECHO_REQ" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú÷Òçøÿÿÿÿ
-lsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¡äŒc
-Osquid:UselessImportCheck"(Remove this unused import 'NIO.Channel'.(üÀŠøÿÿÿÿ
-8squid:S1148"#Use a logger to log this exception.(Óùóÿ
-Osquid:S1161":Add the "@Override" annotation above this method signature(û­Ï½

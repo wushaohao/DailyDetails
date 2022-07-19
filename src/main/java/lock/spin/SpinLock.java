@@ -8,7 +8,7 @@ import java.util.concurrent.atomic.AtomicReference;
  * @date:18/12/10
  */
 public class SpinLock {
-    private AtomicReference<Thread> cas = new AtomicReference<>();
+    private AtomicReference<Thread> cas = new AtomicReference<Thread>();
 
     /**
      * lock()方法利用CAS,当第一个线程A获取锁的时候,能够成功获取到,不会进入while循环,如果此时线程A没有释放锁

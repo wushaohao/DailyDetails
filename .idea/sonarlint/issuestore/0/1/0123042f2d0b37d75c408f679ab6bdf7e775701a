@@ -1,24 +1,0 @@
-
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿ±Ì÷ûÿÿÿÿ
-ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š¿­²øÿÿÿÿ
-N
-squid:S899":Do something with the "boolean" value returned by "offer".(¼’ÿ
-N
-squid:S899":Do something with the "boolean" value returned by "offer".(¼’ÿ
-ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(İ¢˜Æÿÿÿÿÿ
-ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´”ñÊúÿÿÿÿ
-msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ê ”Ù
-Qsquid:UnusedPrivateMethod".Remove this unused private "arrayTest" method.(ôÀïø
-S
-squid:S899":Do something with the "boolean" value returned by "offer".(™Ã”úÿÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(½Â¾öşÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(šÀ™ ûÿÿÿÿ
-Xsquid:HiddenFieldCheck"8Rename "lock" which hides the field declared at line 41.(º·úã
-3squid:S2095"Close this "FileOutputStream".(ªµÀ
-N
-squid:S899":Do something with the "boolean" value returned by "offer".(¼’ÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(†ûèşÿÿÿÿ

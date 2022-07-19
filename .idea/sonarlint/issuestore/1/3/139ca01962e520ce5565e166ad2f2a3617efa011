@@ -1,40 +1,0 @@
-
-rsquid:S1192"XDefine a constant instead of duplicating this literal "***********************" 4 times.(Þ‘›ïøÿÿÿÿ
-`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(òšõÿ
-`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ö›á¥
-esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ð‡Õµùÿÿÿÿ
-`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆªôº
-L
-squid:S106"9Replace this use of System.out or System.err by a logger.(ªÔõV
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(Þ‘›ïøÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(¶ˆÊœúÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(Þ‘›ïøÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(ðàÍ…
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(Âãª
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(Þ‘›ïøÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ä•–†üÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(®í´šûÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(Þ‘›ïøÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ì…
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(¯üúÁ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(Æšò”üÿÿÿÿ
-Ysquid:CallToDeprecatedMethod".Remove this use of "create"; it is deprecated.(«šåæýÿÿÿÿ
-›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€ñ”Ýùÿÿÿÿ
-›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€ñ”Ýùÿÿÿÿ
-›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€ñ”Ýùÿÿÿÿ
-›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€ñ”Ýùÿÿÿÿ
-›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€ñ”Ýùÿÿÿÿ

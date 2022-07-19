@@ -1,23 +1,0 @@
-
-hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ğ§…æøÿÿÿÿ
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(İÊÓúÿÿÿÿ8ÆãâæÇ+
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ë×–ìúÿÿÿÿ8ÆãâæÇ+
-Vsquid:S1161":Add the "@Override" annotation above this method signature(…Ó¯Ò8ñÇÛæÇ+
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(Òõû¼ûÿÿÿÿ8–ÃŞêÇ+
-S
-squid:S106"9Replace this use of System.out or System.err by a logger.(îŞ‹8ÆãâæÇ+
-rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¦»îòüÿÿÿÿ
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(½³µ¸üÿÿÿÿ8ÆãâæÇ+
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ñ«Ôå8ÆãâæÇ+
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ñ«Ôå8ÆãâæÇ+
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ˆÚá‚8ÆãâæÇ+
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(°”¨™ÿÿÿÿÿ8ÆãâæÇ+
-[squid:S1161":Add the "@Override" annotation above this method signature(ºËÀ¬øÿÿÿÿ8îØÚæÇ+
